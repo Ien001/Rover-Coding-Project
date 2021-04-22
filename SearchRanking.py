@@ -1,9 +1,3 @@
-#  File name: SearchRanking.py
-#  Author: Yuanzhi (Ian) Ren
-#  Date created: 4/20/2021
-#  Date last modified: 4/21/2021
-#  Python Version: 3.7
-
 import sys
 import pandas as pd
 
